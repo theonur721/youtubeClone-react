@@ -1,7 +1,7 @@
 
 <h1> YOUTUBE CLONE </h1>
 
-youtubeClone-react
+"making a youtube clone"
 
 # Kütüphaneler
 
@@ -41,5 +41,3 @@ REACT
 <h2> Screen Gif </h2>
 
 ![](ekran.gif)
-
-# youtubeClone-react
