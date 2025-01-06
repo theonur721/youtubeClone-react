@@ -34,7 +34,7 @@
     /results/?search_query=react.js
 
 
-<h2> Used technologies </h2>
+<h2> Kullanılan Teknolojiler </h2>
 
 REACT
 
